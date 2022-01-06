@@ -26,7 +26,9 @@ LogisticRegression and RandomForestClassifier.
 Tools
 ___________________________________________________________________________________________________________________________________________________________________________
 Pandas for data manipulation
+
 sklearn for modeling
+
 Matplotlib,seaborn for plotting
 
 Communication
