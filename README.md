@@ -2,7 +2,7 @@ HR Analytics: Job Change of Data Scientists
 BannaMohammed AL-Otaibi
 
 Abstract
-
+___________________________________________________________________________________________________________________________________________________________________________
 This project aimed to ind out what are affective factors on employee decision, predict the probability of a candidate work for the company using machine learning models to help helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates.  The used data in this project is provided by Kaggle
 
 Design
